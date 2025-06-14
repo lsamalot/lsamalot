@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋I am Leonardo Samalot. 
+I am an enthusiastic educator and data enthusiast on a mission to merge teaching with technology.
+## About me:
+- Completed a data science capstone project demonstrating real-world skills in Python, various Pythonic Libraries as well as SQL as well as data analysis.
+- I am currently working on interactive tools with Python and Streamlit to help simplify data-driven tasks.
+- Experience in creating educational content and leveraging programming to enhance the learning experience of my students and colleagues.
 
-<!--
-**lsamalot/lsamalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- **Capstone Project:** A comprehensive data science project showcasing analysis, visualization, and insights. 
+	- Link here: (https://github.com/lsamalot/your-capstone-repo)
+- **Graphing Tool:** A Python and Streamlit app to create customizable graphs easily.
+- **Quiz Generator:** A tool to automate the creation of lab quizzes, helping educators save time. 
 
-Here are some ideas to get you started:
+## How to reach me
+- www.linkedin.com/in/leonardo-samalot
+- lsamalot@hotmail.com
+- drsamalot@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Thanks for visiting!
+
+
+
