@@ -16,7 +16,7 @@ I am an enthusiastic educator and data enthusiast on a mission to merge teaching
 - lsamalot@hotmail.com
 - drsamalot@gmail.com
 
-## Thanks for visiting!
+### Thanks for visiting!
 
 
 
